@@ -178,6 +178,7 @@
 	color = "#c1b144"
 
 /obj/item/clothing/suit/roguetown/shirt/robe/merchant
+	slot_flags = ITEM_SLOT_ARMOR|ITEM_SLOT_CLOAK
 	name = "guilder jacket"
 	icon_state = "merrobe"
 	sellprice = 30
