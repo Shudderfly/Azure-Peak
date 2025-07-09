@@ -1426,7 +1426,7 @@
 	body_parts_covered = CHEST|GROIN|VITALS|ARMS
 	sleeved = 'icons/roguetown/clothing/onmob/cloaks.dmi'
 	sleevetype = "shirt"
-	slot_flags = ITEM_SLOT_CLOAK
+	slot_flags = ITEM_SLOT_BACK_R|ITEM_SLOT_CLOAK
 	nodismemsleeves = TRUE
 	sleevetype = "shirt"
 	slot_flags = ITEM_SLOT_CLOAK
